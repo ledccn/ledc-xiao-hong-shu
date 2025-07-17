@@ -1,0 +1,11 @@
+{
+  "msg": "ok",
+  "code": 200,
+  "data": {
+    "forbiddenKeywords": [
+      "防脱发",
+      "防脱"
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,41 @@
+{
+  "data": {
+    "variations": [
+      {
+        "name": "套装明细",
+        "enName": "Not translated yet",
+        "id": "6327facbf382050001e4eb22"
+      },
+      {
+        "name": "品种",
+        "enName": "Not translated yet",
+        "id": "6386ff7bb738f80001c10334"
+      },
+      {
+        "name": "颜色分类",
+        "enName": "Not translated yet",
+        "id": "60404e0de85df80001991224"
+      }
+    ],
+    "splVariations": [
+      {
+        "name": "套装明细",
+        "enName": "Not translated yet",
+        "id": "6327facbf382050001e4eb22"
+      },
+      {
+        "name": "品种",
+        "enName": "Not translated yet",
+        "id": "6386ff7bb738f80001c10334"
+      },
+      {
+        "name": "颜色分类",
+        "enName": "Not translated yet",
+        "id": "60404e0de85df80001991224"
+      }
+    ],
+    "spvVariations": []
+  },
+  "success": true,
+  "error_code": 0
+}

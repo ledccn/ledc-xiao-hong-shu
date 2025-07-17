@@ -1,0 +1,23 @@
+{
+  "error_code": 0,
+  "data": {
+    "categoryInfo": [
+      {
+        "id": "65f996de3e946300016b26ba",
+        "name": "手提包",
+        "score": 0.77952063
+      },
+      {
+        "id": "65f997be3e946300016b3dc9",
+        "name": "女士包袋",
+        "score": 0.05576875
+      },
+      {
+        "id": "65f996de3e946300016b26b5",
+        "name": "托特包",
+        "score": 0.02016823
+      }
+    ]
+  },
+  "success": true
+}

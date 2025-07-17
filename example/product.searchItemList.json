@@ -1,0 +1,436 @@
+{
+  "currentPage": 1,
+  "pageSize": 20,
+  "total": 8,
+  "itemDetailV3s": [
+    {
+      "name": "19朵高原红玫瑰丝绸蝴蝶结花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "红玫瑰",
+          "valueId": "66264ff22c821c0001a4388c",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [
+        "6327facbf382050001e4eb22",
+        "60404e0de85df80001991224"
+      ],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrhl3q005q1442c3jvuapr57508",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrii36005q1442c3jvua3ntcr6g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrgn36005q1442c3jvuantoqtmg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": null,
+      "enableStepPresale": false,
+      "id": "687496d3417c3f00015b8be4",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752471251000,
+      "updateTime": 1752471346000,
+      "taskId": null
+    },
+    {
+      "name": "粉墨 曼塔剑兰蝴蝶兰粉雪山混搭花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "粉玫瑰",
+          "valueId": "66264ff22c821c0001a4388f",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joia47e36005q1442c3jvua9mupv5g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joia8d5ig0g5q1442c3jvuap0ool18",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joi9tpi36005q1442c3jvua4bqd14g"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joia8d5ig0g5q1442c3jvuap0ool18",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joia47e36005q1442c3jvua9mupv5g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joi9tpi36005q1442c3jvua4bqd14g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joi9ic23q005q1442c3jvuabgtvp1o",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "粉墨蝴蝶兰花束",
+      "enableStepPresale": false,
+      "id": "686f7ddb071cdc00014ceaba",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752137179000,
+      "updateTime": 1752469780000,
+      "taskId": null
+    },
+    {
+      "name": "紫鹤暗夜紫玫瑰蝴蝶兰剑兰混搭花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "紫玫瑰",
+          "valueId": "6697dc7dce2a80000108fae1",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi6jsgia0g5q1442c3jvuaf9ijl08",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi68vq2g1g5q1442c3jvua3tg5ge8",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi6e4o2alg5q1442c3jvuaohi9gq0"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi6jsgia0g5q1442c3jvuaf9ijl08",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi6e4o2alg5q1442c3jvuaohi9gq0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi68vq2g1g5q1442c3jvua3tg5ge8",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "暗夜紫玫瑰花束",
+      "enableStepPresale": false,
+      "id": "686f7cefb6f0e8000125bcce",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752136943000,
+      "updateTime": 1752469800000,
+      "taskId": null
+    },
+    {
+      "name": "路西法暮色森林黑玫瑰混搭花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "粉玫瑰",
+          "valueId": "66264ff22c821c0001a4388f",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joi32gaia005q1442c3jvua37q2j2o",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi32fdjq6g5q1442c3jvua0fj6p90",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi32ha360g5q1442c3jvuaf34ee60"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi32fdjq6g5q1442c3jvua0fj6p90",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031joi32gaia005q1442c3jvua37q2j2o",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31joi32ha360g5q1442c3jvuaf34ee60",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "暮色黑玫瑰花束",
+      "enableStepPresale": false,
+      "id": "686f7c6c80b7300001edc9e3",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752136812000,
+      "updateTime": 1752469773000,
+      "taskId": null
+    },
+    {
+      "name": "庄生晓梦自然风蝴蝶花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "白玫瑰",
+          "valueId": "66264fd92c821c0001a43353",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johpkfvk8005q1442c3jvuasd1qpq0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johppoqjq0g5q1442c3jvuaqig4hlo"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johkmki480g5q1442c3jvuap82kc4g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johkmbtig005q1442c3jvua4meeqno",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "自然风蝴蝶花束",
+      "enableStepPresale": false,
+      "id": "686f79a40e13d500012fb1e6",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752136100000,
+      "updateTime": 1752469758000,
+      "taskId": null
+    },
+    {
+      "name": "52朵暮色森林玫瑰芭蕾风花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "乌梅子酱玫瑰",
+          "valueId": "6697dc7dce2a80000108fa9e",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johnmeuk8705q1442c3jvuaf42vaio",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johnqs3jq0g5q1442c3jvuacpvjnl0"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johkn17ia005q1442c3jvua7tahtd8",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johkn9tj67g5q1442c3jvua8ik4p4o",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johkmveia005q1442c3jvualu2cnbg",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johkmuf3q005q1442c3jvua2rvgep0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "暮色森林玫瑰花束",
+      "enableStepPresale": false,
+      "id": "686f79250e13d500012fa2f2",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752135973000,
+      "updateTime": 1752469751000,
+      "taskId": null
+    },
+    {
+      "name": "复古色系郁金香曼塔玫瑰混搭丝绸小香风花束",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "曼塔玫瑰",
+          "valueId": "6697dc7dce2a80000108fabc",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johl5au2a005q1442c3jvua535mbi0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johlf5v2a005q1442c3jvuav0hdd9g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johlm1sia0g5q1442c3jvuauo8k7f0"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johlm1sia0g5q1442c3jvuauo8k7f0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g3no31johlf5v2a005q1442c3jvuav0hdd9g",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031johl5au2a005q1442c3jvua535mbi0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "复古郁金香小香风花束",
+      "enableStepPresale": false,
+      "id": "686f78b21cfd980001ac3bf5",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752135858000,
+      "updateTime": 1752469735000,
+      "taskId": null
+    },
+    {
+      "name": "乌梅子酱玫瑰花13朵",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996d83e946300016b2615",
+      "attributes": [
+        {
+          "propertyId": "63aab46983c23a0001a81b7a",
+          "name": "鲜花主花材",
+          "value": "乌梅子酱玫瑰",
+          "valueId": "6697dc7dce2a80000108fa9e",
+          "valueList": []
+        }
+      ],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0ao31joge6g7360g5q1442c3jvuae6s8dsg",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0ao31joge6g736005q1442c3jvua8l5ora0"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0ao31joge6g7360g5q1442c3jvuae6s8dsg",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0ao31joge6g736005q1442c3jvua8l5ora0",
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031jogmg29jq005q1442c3jvua63d1kbg"
+      ],
+      "transparentImage": null,
+      "description": "",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 1,
+      "freeReturn": 2,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": "玫瑰花乌梅子酱",
+      "enableStepPresale": false,
+      "id": "686f749573988100010d3376",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1752134805000,
+      "updateTime": 1752469715000,
+      "taskId": null
+    }
+  ]
+}

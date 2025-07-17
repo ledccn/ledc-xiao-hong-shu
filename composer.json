@@ -1,0 +1,27 @@
+{
+  "name": "ledc/xiao-hong-shu",
+  "description": "小红书开放平台，自研商家SDK",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Ledc\\XiaoHongShu\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "david",
+      "email": "367013672@qq.com",
+      "homepage": "https://www.iyuu.cn",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "require-dev": {
+    "rector/rector": "^2.0"
+  }
+}

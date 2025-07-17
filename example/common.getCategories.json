@@ -1,0 +1,82 @@
+{
+  "msg": "成功",
+  "error_msg": "成功",
+  "data": {
+    "categoryV3s": [
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "enName": "",
+        "name": "婚庆/商业花艺",
+        "id": "65f995603e946300016afec0",
+        "isLeaf": true,
+        "supportRecommendSizeTable": false
+      },
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "enName": "",
+        "name": "花束/花盒/开业花篮/礼品花",
+        "id": "65f996d83e946300016b2615",
+        "isLeaf": true,
+        "supportRecommendSizeTable": false
+      },
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "name": "婚礼鲜花布置",
+        "enName": "",
+        "id": "65f996da3e946300016b264a",
+        "isLeaf": false,
+        "supportRecommendSizeTable": false
+      },
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "name": "商务用花",
+        "enName": "",
+        "id": "65f996da3e946300016b2654",
+        "isLeaf": true,
+        "supportRecommendSizeTable": false
+      },
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "enName": "",
+        "name": "生活鲜花",
+        "id": "65f996da3e946300016b2655",
+        "isLeaf": false,
+        "supportRecommendSizeTable": false
+      },
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "name": "鲜花速递(同城)",
+        "enName": "",
+        "id": "65f996da3e946300016b2659",
+        "isLeaf": true,
+        "supportRecommendSizeTable": false
+      },
+      {
+        "supportModelTryOnSizeTable": false,
+        "supportMainSpecImage": false,
+        "supportSizeTable": false,
+        "name": "永生花/干花",
+        "enName": "",
+        "id": "65f996db3e946300016b265a",
+        "isLeaf": false,
+        "supportRecommendSizeTable": false
+      }
+    ],
+    "sellerInCategoryGray": true
+  },
+  "success": true,
+  "error_code": 0,
+  "sellerInCategoryGray": true
+}

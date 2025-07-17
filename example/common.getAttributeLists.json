@@ -1,0 +1,19 @@
+{
+  "data": {
+    "attributeV3s": [
+      {
+        "isMulti": false,
+        "isRequired": true,
+        "acceptsImage": false,
+        "dataType": 0,
+        "name": "鲜花主花材",
+        "enName": "Not translated yet",
+        "customizable": true,
+        "inputType": 1,
+        "id": "63aab46983c23a0001a81b7a"
+      }
+    ]
+  },
+  "success": true,
+  "error_code": 0
+}

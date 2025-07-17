@@ -1,0 +1,91 @@
+{
+  "error_code": 0,
+  "data": {
+    "deliveryRuleList": [
+      {
+        "sellerId": null,
+        "planInfoId": "686f7454dc941a001551f3a9",
+        "whcode": null,
+        "categoryId": "65f996d83e946300016b2615",
+        "logisticsMode": 1,
+        "existing": [
+          {
+            "timeType": 3,
+            "value": 16,
+            "min": 0,
+            "max": 0,
+            "desc": "承诺16:00前支付成功的订单，当日24:00前发货；16:00之后支付成功订单，24小时内发货。开通后可外显“极速发货”服务标签，提高购买转化率，降低客服发货咨询。",
+            "isDefault": false,
+            "stepDeliveryTime": null,
+            "default": false
+          },
+          {
+            "timeType": 4,
+            "value": 24,
+            "min": 0,
+            "max": 0,
+            "desc": "承诺24小时发货，商品可外显“极速发货”服务标签。",
+            "isDefault": false,
+            "stepDeliveryTime": null,
+            "default": false
+          },
+          {
+            "timeType": 4,
+            "value": 48,
+            "min": 0,
+            "max": 0,
+            "desc": "请在承诺发货时间内完成发货，否则可能会面临投诉与处罚。",
+            "isDefault": true,
+            "stepDeliveryTime": null,
+            "default": true
+          }
+        ],
+        "presale": [
+          {
+            "timeType": 4,
+            "value": 0,
+            "min": 72,
+            "max": 360,
+            "desc": "设置预售相对发货时间，需要在下单后设置的时间内完成发货。",
+            "isDefault": false,
+            "stepDeliveryTime": null,
+            "default": false
+          },
+          {
+            "timeType": 5,
+            "value": 0,
+            "min": 72,
+            "max": 360,
+            "desc": "设置预售绝对发货时间，需要在设置时间当天的23:59:59前完成发货。",
+            "isDefault": false,
+            "stepDeliveryTime": null,
+            "default": false
+          }
+        ],
+        "stepPresale": [
+          {
+            "timeType": 4,
+            "value": 0,
+            "min": 72,
+            "max": 360,
+            "desc": "设置阶梯预售相对发货时间，需要在下单后设置的时间内完成发货。",
+            "isDefault": false,
+            "stepDeliveryTime": [
+              72,
+              120,
+              168,
+              360
+            ],
+            "default": false
+          }
+        ],
+        "comment": null,
+        "mustFreeReturn": false,
+        "supportPreSale": true,
+        "supportStepPreSale": true,
+        "notSupportPreSaleCode": 0
+      }
+    ]
+  },
+  "success": true
+}

@@ -1,0 +1,14 @@
+{
+  "error_code": 0,
+  "data": {
+    "brands": [
+      {
+        "name": "联想",
+        "enName": "lenovo",
+        "id": "196791",
+        "image": "https://qimg.xiaohongshu.com/circe/104101v8318ua82bag206e2hrpg0000003o04123srsei2"
+      }
+    ]
+  },
+  "success": true
+}

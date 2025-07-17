@@ -1,0 +1,494 @@
+{
+  "error_code": 0,
+  "data": {
+    "expressCompanyInfos": [
+      {
+        "expressCompanyId": 851,
+        "expressCompanyCode": "kuayue",
+        "expressCompanyName": "跨越速运",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 853,
+        "expressCompanyCode": "fedex",
+        "expressCompanyName": "FedEx-国际",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 854,
+        "expressCompanyCode": "exfresh",
+        "expressCompanyName": "安鲜达",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 855,
+        "expressCompanyCode": "tianma",
+        "expressCompanyName": "天马迅达",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 856,
+        "expressCompanyCode": "debangwuliu",
+        "expressCompanyName": "德邦物流",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 857,
+        "expressCompanyCode": "hongyuan",
+        "expressCompanyName": "优邦速运",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 861,
+        "expressCompanyCode": "jiuyescm",
+        "expressCompanyName": "九曳供应链",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 863,
+        "expressCompanyCode": "shunfeng",
+        "expressCompanyName": "顺丰速运",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 864,
+        "expressCompanyCode": "tiantian",
+        "expressCompanyName": "天天快递",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 865,
+        "expressCompanyCode": "zhaijisong",
+        "expressCompanyName": "宅急送",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 869,
+        "expressCompanyCode": "meiquick",
+        "expressCompanyName": "美快国际物流",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 870,
+        "expressCompanyCode": "lianbangkuaidi",
+        "expressCompanyName": "联邦快递",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 873,
+        "expressCompanyCode": "synship",
+        "expressCompanyName": "SYNSHIP快递",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 876,
+        "expressCompanyCode": "dhlen",
+        "expressCompanyName": "DHL-en",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 877,
+        "expressCompanyCode": "jd",
+        "expressCompanyName": "京东快递",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 878,
+        "expressCompanyCode": "yunda",
+        "expressCompanyName": "韵达速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 879,
+        "expressCompanyCode": "zhuanyunsifang",
+        "expressCompanyName": "转运四方",
+        "comment": "转运四方国内/转运四方海外，统一使用“转运四方”"
+      },
+      {
+        "expressCompanyId": 880,
+        "expressCompanyCode": "yuantong",
+        "expressCompanyName": "圆通速递",
+        "comment": "圆通速递/圆通国际统一使用“圆通速递”"
+      },
+      {
+        "expressCompanyId": 882,
+        "expressCompanyCode": "youzhengguonei",
+        "expressCompanyName": "邮政小包",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 883,
+        "expressCompanyCode": "wanxiangwuliu",
+        "expressCompanyName": "万象物流",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 885,
+        "expressCompanyCode": "sdto",
+        "expressCompanyName": "速达通",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 890,
+        "expressCompanyCode": "dhlde",
+        "expressCompanyName": "DHL-德国",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 896,
+        "expressCompanyCode": "ftd",
+        "expressCompanyName": "富腾达国际",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 897,
+        "expressCompanyCode": "shentong",
+        "expressCompanyName": "申通快递",
+        "comment": "申通快递/申通国际/美国申通统一使用“申通快递”"
+      },
+      {
+        "expressCompanyId": 900,
+        "expressCompanyCode": "ems",
+        "expressCompanyName": "EMS",
+        "comment": "EMS/EMS国际/邮政国际 统一使用“EMS”"
+      },
+      {
+        "expressCompanyId": 901,
+        "expressCompanyCode": "ecms",
+        "expressCompanyName": "易客满",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 902,
+        "expressCompanyCode": "rrs",
+        "expressCompanyName": "日日顺",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 904,
+        "expressCompanyCode": "ewe",
+        "expressCompanyName": "EWE全球",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 905,
+        "expressCompanyCode": "youshuwuliu",
+        "expressCompanyName": "优速物流",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 907,
+        "expressCompanyCode": "flyway",
+        "expressCompanyName": "程光快递",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 908,
+        "expressCompanyCode": "zhongtiewuliu",
+        "expressCompanyName": "中铁快运",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 911,
+        "expressCompanyCode": "zhongtongguoji",
+        "expressCompanyName": "中通国际",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 913,
+        "expressCompanyCode": "zto",
+        "expressCompanyName": "中通速递",
+        "comment": "中通速递/中通速运/中通国际"
+      },
+      {
+        "expressCompanyId": 914,
+        "expressCompanyCode": "xiansuyun",
+        "expressCompanyName": "鲜速运",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 915,
+        "expressCompanyCode": "zhongyuan",
+        "expressCompanyName": "中远e环球",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 917,
+        "expressCompanyCode": "unitedex",
+        "expressCompanyName": "联合速运",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 918,
+        "expressCompanyCode": "uszcn",
+        "expressCompanyName": "转运中国",
+        "comment": null
+      },
+      {
+        "expressCompanyId": 920,
+        "expressCompanyCode": "danniao",
+        "expressCompanyName": "菜鸟速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 925,
+        "expressCompanyCode": "auexpress",
+        "expressCompanyName": "澳邮中国快运",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 927,
+        "expressCompanyCode": "fedroad",
+        "expressCompanyName": "FedRoad 联邦转运",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 928,
+        "expressCompanyCode": "stointernational",
+        "expressCompanyName": "申通国际",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 929,
+        "expressCompanyCode": "jtexpress",
+        "expressCompanyName": "极兔速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 930,
+        "expressCompanyCode": "suning",
+        "expressCompanyName": "苏宁物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 931,
+        "expressCompanyCode": "hmus",
+        "expressCompanyName": "华美快递",
+        "comment": "华美快递"
+      },
+      {
+        "expressCompanyId": 932,
+        "expressCompanyCode": "disifangus",
+        "expressCompanyName": "递四方美国",
+        "comment": "递四方美国"
+      },
+      {
+        "expressCompanyId": 933,
+        "expressCompanyCode": "zhongtongkuaiyun",
+        "expressCompanyName": "中通快运",
+        "comment": "中通快运"
+      },
+      {
+        "expressCompanyId": 935,
+        "expressCompanyCode": "goex",
+        "expressCompanyName": "时安达速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 936,
+        "expressCompanyCode": "baishikuaiyun",
+        "expressCompanyName": "百世快运",
+        "comment": "百世快运"
+      },
+      {
+        "expressCompanyId": 937,
+        "expressCompanyCode": "baishiguoji",
+        "expressCompanyName": "百世国际",
+        "comment": "百世国际"
+      },
+      {
+        "expressCompanyId": 938,
+        "expressCompanyCode": "yundakuaiyun",
+        "expressCompanyName": "韵达快运",
+        "comment": "韵达快运"
+      },
+      {
+        "expressCompanyId": 941,
+        "expressCompanyCode": "jinguangsudi",
+        "expressCompanyName": "京广速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 942,
+        "expressCompanyCode": "shunxinjieda",
+        "expressCompanyName": "顺心捷达",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 943,
+        "expressCompanyCode": "annengwuliu",
+        "expressCompanyName": "安能快运",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 950,
+        "expressCompanyCode": "signedexpress",
+        "expressCompanyName": "签收快递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 952,
+        "expressCompanyCode": "sgxpress",
+        "expressCompanyName": "SGXpress",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 953,
+        "expressCompanyCode": "yimidida",
+        "expressCompanyName": "壹米滴答",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 954,
+        "expressCompanyCode": "xiaomiwuliu",
+        "expressCompanyName": "小米物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 955,
+        "expressCompanyCode": "savor",
+        "expressCompanyName": "海信物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 956,
+        "expressCompanyCode": "youzhengbiaokuai",
+        "expressCompanyName": "邮政电商标快",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 957,
+        "expressCompanyCode": "annto",
+        "expressCompanyName": "安得物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 958,
+        "expressCompanyCode": "quanyouwuliu",
+        "expressCompanyName": "成都莫仕",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 960,
+        "expressCompanyCode": "ztocc",
+        "expressCompanyName": "中通冷链",
+        "comment": "中通冷链"
+      },
+      {
+        "expressCompanyId": 961,
+        "expressCompanyCode": "tnjex",
+        "expressCompanyName": "明通国际快递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 962,
+        "expressCompanyCode": "oneexpress",
+        "expressCompanyName": "一速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 963,
+        "expressCompanyCode": "esoway",
+        "expressCompanyName": "加拿大易速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 964,
+        "expressCompanyCode": "huisenky",
+        "expressCompanyName": "汇森速运",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 965,
+        "expressCompanyCode": "youlai",
+        "expressCompanyName": "奥兰多顺丰",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 966,
+        "expressCompanyCode": "jsdexpress",
+        "expressCompanyName": "吉时达物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 967,
+        "expressCompanyCode": "shunfengguoji",
+        "expressCompanyName": "顺丰国际",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 968,
+        "expressCompanyCode": "inpostysd",
+        "expressCompanyName": "邮速达",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 970,
+        "expressCompanyCode": "cncrossborder",
+        "expressCompanyName": "菜鸟国际",
+        "comment": "菜鸟国际，虚拟快递公司，禁止商家使用"
+      },
+      {
+        "expressCompanyId": 971,
+        "expressCompanyCode": "中远物流",
+        "expressCompanyName": "中远物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 974,
+        "expressCompanyCode": "cainiaodajian",
+        "expressCompanyName": "菜鸟大件",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 975,
+        "expressCompanyCode": "lc56",
+        "expressCompanyName": "禄昌物流",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 976,
+        "expressCompanyCode": "pingandatengfei",
+        "expressCompanyName": "平安达腾飞快递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 977,
+        "expressCompanyCode": "XD",
+        "expressCompanyName": "鑫达快递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 978,
+        "expressCompanyCode": "小飞侠速递",
+        "expressCompanyName": "小飞侠速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 979,
+        "expressCompanyCode": "美西速运",
+        "expressCompanyName": "美西速运",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 981,
+        "expressCompanyCode": "cndirectmail",
+        "expressCompanyName": "菜鸟进口直邮",
+        "comment": "菜鸟进口直邮，商家不要随意选"
+      },
+      {
+        "expressCompanyId": 982,
+        "expressCompanyCode": "luckyfastex",
+        "expressCompanyName": "吉捷国际速递",
+        "comment": ""
+      },
+      {
+        "expressCompanyId": 983,
+        "expressCompanyCode": "benniaosuyun",
+        "expressCompanyName": "笨鸟速运",
+        "comment": ""
+      }
+    ]
+  },
+  "success": true
+}

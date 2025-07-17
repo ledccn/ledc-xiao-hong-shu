@@ -1,0 +1,40 @@
+{
+  "error_code": 0,
+  "data": {
+    "logisticModes": [
+      {
+        "logisticsCode": "red_auto",
+        "logisticsTranslation": "自主发货"
+      },
+      {
+        "logisticsCode": "red_express",
+        "logisticsTranslation": "RED Express"
+      },
+      {
+        "logisticsCode": "red_domestic_trade",
+        "logisticsTranslation": "国内贸易"
+      },
+      {
+        "logisticsCode": "red_box",
+        "logisticsTranslation": "RED Box"
+      },
+      {
+        "logisticsCode": "red_bulk",
+        "logisticsTranslation": "RED Bulk"
+      },
+      {
+        "logisticsCode": "red_bonded",
+        "logisticsTranslation": "三方保税仓发货"
+      },
+      {
+        "logisticsCode": "red_post",
+        "logisticsTranslation": "RED Post"
+      },
+      {
+        "logisticsCode": "red_standard",
+        "logisticsTranslation": "RED Standard"
+      }
+    ]
+  },
+  "success": true
+}

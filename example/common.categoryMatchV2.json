@@ -1,0 +1,111 @@
+{
+  "msg": "ok",
+  "code": 200,
+  "data": {
+    "recommendCategories": [
+      {
+        "categoryPathList": [
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 1,
+            "name": "鲜花速递/花卉仿真/绿植园艺",
+            "id": "65f995603e946300016afeb8",
+            "isLeaf": false,
+            "parentId": ""
+          },
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 2,
+            "name": "生活鲜花",
+            "id": "65f996da3e946300016b2655",
+            "isLeaf": false,
+            "parentId": "65f995603e946300016afeb8"
+          },
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 3,
+            "name": "花材",
+            "id": "65f996da3e946300016b2656",
+            "isLeaf": true,
+            "parentId": "65f996da3e946300016b2655"
+          }
+        ],
+        "marketable": true,
+        "categoryName": "花材",
+        "categoryId": "65f996da3e946300016b2656"
+      },
+      {
+        "categoryPathList": [
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 1,
+            "name": "生活服务",
+            "id": "65f997b73e946300016b3d08",
+            "isLeaf": false,
+            "parentId": ""
+          },
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 2,
+            "name": "花艺花卉",
+            "id": "65f997b73e946300016b3d09",
+            "isLeaf": false,
+            "parentId": "65f997b73e946300016b3d08"
+          },
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 3,
+            "name": "鲜花速递",
+            "id": "65f997b73e946300016b3d0b",
+            "isLeaf": true,
+            "parentId": "65f997b73e946300016b3d09"
+          }
+        ],
+        "marketable": false,
+        "categoryName": "鲜花速递",
+        "categoryId": "65f997b73e946300016b3d0b"
+      },
+      {
+        "categoryPathList": [
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 1,
+            "name": "手工艺/非遗技艺",
+            "id": "65f9973c3e946300016b30ba",
+            "isLeaf": false,
+            "parentId": ""
+          },
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 2,
+            "name": "手工/手作diy",
+            "id": "65f997403e946300016b3127",
+            "isLeaf": false,
+            "parentId": "65f9973c3e946300016b30ba"
+          },
+          {
+            "categoryType": 1,
+            "ename": "",
+            "level": 3,
+            "name": "其他手作/手工成品",
+            "id": "65f997413e946300016b313c",
+            "isLeaf": true,
+            "parentId": "65f997403e946300016b3127"
+          }
+        ],
+        "marketable": false,
+        "categoryName": "其他手作/手工成品",
+        "categoryId": "65f997413e946300016b313c"
+      }
+    ]
+  },
+  "success": true
+}

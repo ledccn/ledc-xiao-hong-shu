@@ -1,0 +1,24 @@
+{
+  "error_code": 0,
+  "data": {
+    "logisticsPlans": [
+      {
+        "planInfoId": "686f7454dc941a001551f3a9",
+        "shopName": "爱语飞飞的店",
+        "planInfoName": "市内配送",
+        "tradeMode": 0,
+        "customsCode": null,
+        "logisticsCompanyCode": null,
+        "logisticName": "red_auto",
+        "isValid": true,
+        "countryName": null,
+        "privinceName": null,
+        "cityName": null,
+        "street": null,
+        "postCode": null,
+        "sellerAddressRecordId": 19605746
+      }
+    ]
+  },
+  "success": true
+}

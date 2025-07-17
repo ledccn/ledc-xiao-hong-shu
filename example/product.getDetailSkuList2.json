@@ -1,0 +1,407 @@
+{
+  "data": [
+    {
+      "item": {
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束",
+        "ename": null,
+        "brandId": 0,
+        "categoryId": "65f996d83e946300016b2615",
+        "attributes": [
+          {
+            "propertyId": "63aab46983c23a0001a81b7a",
+            "name": "鲜花主花材",
+            "value": "红玫瑰",
+            "valueId": "66264ff22c821c0001a4388c",
+            "valueList": []
+          }
+        ],
+        "shippingTemplateId": "68748105fad0a100151932d5",
+        "shippingGrossWeight": 0,
+        "variantIds": [
+          "6327facbf382050001e4eb22",
+          "60404e0de85df80001991224"
+        ],
+        "images": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho"
+        ],
+        "standardImages": [],
+        "longImages": [],
+        "videoUrl": null,
+        "articleNo": null,
+        "imageDescriptions": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrhl3q005q1442c3jvuapr57508",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrii36005q1442c3jvua3ntcr6g",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrgn36005q1442c3jvuantoqtmg"
+        ],
+        "transparentImage": null,
+        "description": "",
+        "faq": [],
+        "isChannel": false,
+        "deliveryMode": 1,
+        "freeReturn": 2,
+        "enableMultiWarehouse": false,
+        "sizeTableImage": null,
+        "recommendSizeTableImage": null,
+        "modelTryOnSizeTableImage": null,
+        "enableMainSpecImage": false,
+        "mainSpecId": null,
+        "itemShortTitle": null,
+        "enableStepPresale": false,
+        "id": "687496d3417c3f00015b8be4",
+        "unionType": 0,
+        "imageBindItem": true,
+        "imagesDescBindItem": true,
+        "createTime": 1752471251000,
+        "updateTime": 1752471346000,
+        "taskId": null
+      },
+      "sku": {
+        "itemId": "687496d3417c3f00015b8be4",
+        "ipq": 1,
+        "originalPrice": 0,
+        "price": 29900,
+        "stock": 1000,
+        "logisticsPlanId": "686f7454dc941a001551f3a9",
+        "whcode": "CPartner",
+        "priceType": 0,
+        "erpCode": null,
+        "variants": [
+          {
+            "id": "6327facbf382050001e4eb22",
+            "name": "套装明细",
+            "value": "15寸",
+            "valueId": null
+          },
+          {
+            "id": "60404e0de85df80001991224",
+            "name": "颜色分类",
+            "value": "宝蓝色",
+            "valueId": "6269038701b3b400010d6565"
+          }
+        ],
+        "deliveryTime": {
+          "time": "48",
+          "type": "RELATIVE_TIME_NEW"
+        },
+        "specImage": null,
+        "barcode": "XHS-3GUEGCNI7NCW",
+        "originSkuId": null,
+        "boutiqueMode": null,
+        "rowNumber": 2,
+        "deliveryFlag": null,
+        "id": "687496d3417c3f00015b8be8",
+        "scSkucode": "XHS-3GUEGCNI7NCW",
+        "logisticsName": null,
+        "buyable": false,
+        "unionItemDetails": [],
+        "createTime": 1752471251000,
+        "updateTime": 1752474389000,
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束 15寸 宝蓝色",
+        "isGift": false
+      }
+    },
+    {
+      "item": {
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束",
+        "ename": null,
+        "brandId": 0,
+        "categoryId": "65f996d83e946300016b2615",
+        "attributes": [
+          {
+            "propertyId": "63aab46983c23a0001a81b7a",
+            "name": "鲜花主花材",
+            "value": "红玫瑰",
+            "valueId": "66264ff22c821c0001a4388c",
+            "valueList": []
+          }
+        ],
+        "shippingTemplateId": "68748105fad0a100151932d5",
+        "shippingGrossWeight": 0,
+        "variantIds": [
+          "6327facbf382050001e4eb22",
+          "60404e0de85df80001991224"
+        ],
+        "images": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho"
+        ],
+        "standardImages": [],
+        "longImages": [],
+        "videoUrl": null,
+        "articleNo": null,
+        "imageDescriptions": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrhl3q005q1442c3jvuapr57508",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrii36005q1442c3jvua3ntcr6g",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrgn36005q1442c3jvuantoqtmg"
+        ],
+        "transparentImage": null,
+        "description": "",
+        "faq": [],
+        "isChannel": false,
+        "deliveryMode": 1,
+        "freeReturn": 2,
+        "enableMultiWarehouse": false,
+        "sizeTableImage": null,
+        "recommendSizeTableImage": null,
+        "modelTryOnSizeTableImage": null,
+        "enableMainSpecImage": false,
+        "mainSpecId": null,
+        "itemShortTitle": null,
+        "enableStepPresale": false,
+        "id": "687496d3417c3f00015b8be4",
+        "unionType": 0,
+        "imageBindItem": true,
+        "imagesDescBindItem": true,
+        "createTime": 1752471251000,
+        "updateTime": 1752471346000,
+        "taskId": null
+      },
+      "sku": {
+        "itemId": "687496d3417c3f00015b8be4",
+        "ipq": 1,
+        "originalPrice": 0,
+        "price": 29900,
+        "stock": 1000,
+        "logisticsPlanId": "686f7454dc941a001551f3a9",
+        "whcode": "CPartner",
+        "priceType": 0,
+        "erpCode": null,
+        "variants": [
+          {
+            "id": "6327facbf382050001e4eb22",
+            "name": "套装明细",
+            "value": "18寸",
+            "valueId": null
+          },
+          {
+            "id": "60404e0de85df80001991224",
+            "name": "颜色分类",
+            "value": "桔红色",
+            "valueId": "6269038701b3b400010d654f"
+          }
+        ],
+        "deliveryTime": {
+          "time": "48",
+          "type": "RELATIVE_TIME_NEW"
+        },
+        "specImage": null,
+        "barcode": "XHS-3GUEGCNN7G1S",
+        "originSkuId": null,
+        "boutiqueMode": null,
+        "rowNumber": 3,
+        "deliveryFlag": null,
+        "id": "687496d3417c3f00015b8beb",
+        "scSkucode": "XHS-3GUEGCNN7G1S",
+        "logisticsName": null,
+        "buyable": false,
+        "unionItemDetails": [],
+        "createTime": 1752471251000,
+        "updateTime": 1752474389000,
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束 18寸 桔红色",
+        "isGift": false
+      }
+    },
+    {
+      "item": {
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束",
+        "ename": null,
+        "brandId": 0,
+        "categoryId": "65f996d83e946300016b2615",
+        "attributes": [
+          {
+            "propertyId": "63aab46983c23a0001a81b7a",
+            "name": "鲜花主花材",
+            "value": "红玫瑰",
+            "valueId": "66264ff22c821c0001a4388c",
+            "valueList": []
+          }
+        ],
+        "shippingTemplateId": "68748105fad0a100151932d5",
+        "shippingGrossWeight": 0,
+        "variantIds": [
+          "6327facbf382050001e4eb22",
+          "60404e0de85df80001991224"
+        ],
+        "images": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho"
+        ],
+        "standardImages": [],
+        "longImages": [],
+        "videoUrl": null,
+        "articleNo": null,
+        "imageDescriptions": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrhl3q005q1442c3jvuapr57508",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrii36005q1442c3jvua3ntcr6g",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrgn36005q1442c3jvuantoqtmg"
+        ],
+        "transparentImage": null,
+        "description": "",
+        "faq": [],
+        "isChannel": false,
+        "deliveryMode": 1,
+        "freeReturn": 2,
+        "enableMultiWarehouse": false,
+        "sizeTableImage": null,
+        "recommendSizeTableImage": null,
+        "modelTryOnSizeTableImage": null,
+        "enableMainSpecImage": false,
+        "mainSpecId": null,
+        "itemShortTitle": null,
+        "enableStepPresale": false,
+        "id": "687496d3417c3f00015b8be4",
+        "unionType": 0,
+        "imageBindItem": true,
+        "imagesDescBindItem": true,
+        "createTime": 1752471251000,
+        "updateTime": 1752471346000,
+        "taskId": null
+      },
+      "sku": {
+        "itemId": "687496d3417c3f00015b8be4",
+        "ipq": 1,
+        "originalPrice": 0,
+        "price": 29900,
+        "stock": 1000,
+        "logisticsPlanId": "686f7454dc941a001551f3a9",
+        "whcode": "CPartner",
+        "priceType": 0,
+        "erpCode": null,
+        "variants": [
+          {
+            "id": "6327facbf382050001e4eb22",
+            "name": "套装明细",
+            "value": "18寸",
+            "valueId": null
+          },
+          {
+            "id": "60404e0de85df80001991224",
+            "name": "颜色分类",
+            "value": "宝蓝色",
+            "valueId": "6269038701b3b400010d6565"
+          }
+        ],
+        "deliveryTime": {
+          "time": "48",
+          "type": "RELATIVE_TIME_NEW"
+        },
+        "specImage": null,
+        "barcode": "XHS-3GUEGCNS78QO",
+        "originSkuId": null,
+        "boutiqueMode": null,
+        "rowNumber": 4,
+        "deliveryFlag": null,
+        "id": "687496d3417c3f00015b8bee",
+        "scSkucode": "XHS-3GUEGCNS78QO",
+        "logisticsName": null,
+        "buyable": false,
+        "unionItemDetails": [],
+        "createTime": 1752471252000,
+        "updateTime": 1752474390000,
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束 18寸 宝蓝色",
+        "isGift": false
+      }
+    },
+    {
+      "item": {
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束",
+        "ename": null,
+        "brandId": 0,
+        "categoryId": "65f996d83e946300016b2615",
+        "attributes": [
+          {
+            "propertyId": "63aab46983c23a0001a81b7a",
+            "name": "鲜花主花材",
+            "value": "红玫瑰",
+            "valueId": "66264ff22c821c0001a4388c",
+            "valueList": []
+          }
+        ],
+        "shippingTemplateId": "68748105fad0a100151932d5",
+        "shippingGrossWeight": 0,
+        "variantIds": [
+          "6327facbf382050001e4eb22",
+          "60404e0de85df80001991224"
+        ],
+        "images": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho"
+        ],
+        "standardImages": [],
+        "longImages": [],
+        "videoUrl": null,
+        "articleNo": null,
+        "imageDescriptions": [
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrhl3q005q1442c3jvuapr57508",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrii36005q1442c3jvua3ntcr6g",
+          "https://qimg.xiaohongshu.com/arkgoods/1040g0o031jthgrgn36005q1442c3jvuantoqtmg"
+        ],
+        "transparentImage": null,
+        "description": "",
+        "faq": [],
+        "isChannel": false,
+        "deliveryMode": 1,
+        "freeReturn": 2,
+        "enableMultiWarehouse": false,
+        "sizeTableImage": null,
+        "recommendSizeTableImage": null,
+        "modelTryOnSizeTableImage": null,
+        "enableMainSpecImage": false,
+        "mainSpecId": null,
+        "itemShortTitle": null,
+        "enableStepPresale": false,
+        "id": "687496d3417c3f00015b8be4",
+        "unionType": 0,
+        "imageBindItem": true,
+        "imagesDescBindItem": true,
+        "createTime": 1752471251000,
+        "updateTime": 1752471346000,
+        "taskId": null
+      },
+      "sku": {
+        "itemId": "687496d3417c3f00015b8be4",
+        "ipq": 1,
+        "originalPrice": 0,
+        "price": 29900,
+        "stock": 1000,
+        "logisticsPlanId": "686f7454dc941a001551f3a9",
+        "whcode": "CPartner",
+        "priceType": 0,
+        "erpCode": null,
+        "variants": [
+          {
+            "id": "6327facbf382050001e4eb22",
+            "name": "套装明细",
+            "value": "15寸",
+            "valueId": null
+          },
+          {
+            "id": "60404e0de85df80001991224",
+            "name": "颜色分类",
+            "value": "桔红色",
+            "valueId": "6269038701b3b400010d654f"
+          }
+        ],
+        "deliveryTime": {
+          "time": "48",
+          "type": "RELATIVE_TIME_NEW"
+        },
+        "specImage": null,
+        "barcode": "XHS-3GUEGCNFPR0G",
+        "originSkuId": null,
+        "boutiqueMode": null,
+        "rowNumber": 1,
+        "deliveryFlag": null,
+        "id": "687496d3417c3f00015b8be5",
+        "scSkucode": "XHS-3GUEGCNFPR0G",
+        "logisticsName": null,
+        "buyable": false,
+        "unionItemDetails": [],
+        "createTime": 1752471251000,
+        "updateTime": 1752474389000,
+        "name": "19朵高原红玫瑰丝绸蝴蝶结花束 15寸 桔红色",
+        "isGift": false
+      }
+    }
+  ],
+  "pageNO": 1,
+  "pageSize": 50,
+  "total": 4
+}
