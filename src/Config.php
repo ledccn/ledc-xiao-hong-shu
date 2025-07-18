@@ -5,6 +5,7 @@ namespace Ledc\XiaoHongShu;
 use Closure;
 use InvalidArgumentException;
 use JsonSerializable;
+use Ledc\XiaoHongShu\Notify\XhsNotify;
 
 /**
  * 小红书配置类
@@ -265,5 +266,43 @@ class Config implements JsonSerializable
     {
         $md5_hash = md5($this->getAppKey() . '_' . $this->getAppSecret());
         return substr($md5_hash, 0, $length);
+    }
+
+    /**
+     * 验证小红书推送的通知
+     * @param XhsNotify $notify
+     * @param string $baseUrl
+     * @param array $params
+     * @return bool
+     */
+    public function verifyNotifySignature(XhsNotify $notify, string $baseUrl, array $params): bool
+    {
+        if (!$notify->getMsgTag()) {
+            throw new InvalidArgumentException('msg_tag is required');
+        }
+        if (!$notify->getSellerId()) {
+            throw new InvalidArgumentException('seller_id is required');
+        }
+        if ($notify->getSellerId() !== $this->getStoreId()) {
+            throw new InvalidArgumentException('seller_id is invalid');
+        }
+
+        // 将url的所有请求参数以及除sign外的系统参数按照字母进行排序（如果参数包含中文，中文保持原文即可，无需对其单独转码），并使用&连接， 请求body不参与排序
+        $sign = $params['sign'];
+        unset($params['sign']);
+        $params = array_filter($params, fn($value) => null !== $value && '' !== $value);
+        ksort($params);
+        $originalArray = [];
+        foreach ($params as $key => $value) {
+            $originalArray[] = $key . '=' . $value;
+        }
+
+        // 拼接 url+连接后的参数+app-secret
+        $original = $baseUrl . '?' . implode('&', $originalArray) . $this->getAppSecret();
+        $signature = md5($original);
+        if ($signature !== $sign) {
+            throw new InvalidArgumentException('signature error');
+        }
+        return true;
     }
 }

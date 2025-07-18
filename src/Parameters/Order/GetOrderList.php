@@ -2,6 +2,8 @@
 
 namespace Ledc\XiaoHongShu\Parameters\Order;
 
+use Ledc\XiaoHongShu\Enums\OrderStatusEnums;
+use Ledc\XiaoHongShu\Enums\OrderTypeEnums;
 use Ledc\XiaoHongShu\Parameters\Parameters;
 
 /**
@@ -53,6 +55,30 @@ class GetOrderList extends Parameters
      * @var int
      */
     public int $pageSize = 50;
+
+    /**
+     * 获取默认查询参数
+     * @param int $startTime 开始时间
+     * @return self
+     */
+    public static function getDefault(int $startTime = 0): self
+    {
+        $query = new static();
+        if (0 < $startTime) {
+            $query->startTime = $startTime;
+            $query->endTime = $startTime + 86400;
+        } else {
+            $now = time();
+            $query->startTime = $now - 86400;
+            $query->endTime = $now;
+        }
+        $query->timeType = 1;
+        $query->orderType = OrderTypeEnums::ALL;
+        $query->orderStatus = OrderStatusEnums::ALL;
+        $query->pageNo = 1;
+        $query->pageSize = 50;
+        return $query;
+    }
 
     /**
      * 必填参数

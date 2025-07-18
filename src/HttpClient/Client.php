@@ -160,7 +160,8 @@ class Client
         $msg = $response['error_msg'] ?? '';
         $success = $response['success'] ?? false;
         if (0 === $status && $success) {
-            return $response['data'] ?? [];
+            $data = $response['data'] ?? [];
+            return is_array($data) ? $data : [$data];
         }
 
         $message = (string)($msg ?: $httpResponse->getResponse());
@@ -183,7 +184,8 @@ class Client
         $msg = $response['msg'] ?? '';
         $success = $response['success'] ?? false;
         if (200 === $code && $success) {
-            return $response['data'] ?? [];
+            $data = $response['data'] ?? [];
+            return is_array($data) ? $data : [$data];
         }
 
         $message = (string)($msg ?: $httpResponse->getResponse());

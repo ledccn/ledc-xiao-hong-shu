@@ -113,11 +113,11 @@ class ProductClient
     /**
      * 获取ITEM详情
      * @param string $itemId 商品ID
-     * @param int $pageNo 页码
-     * @param int $pageSize 每页数量
+     * @param int|null $pageNo 页码
+     * @param int|null $pageSize 每页数量
      * @return array
      */
-    public function getItemInfo(string $itemId, int $pageNo = 1, int $pageSize = 20): array
+    public function getItemInfo(string $itemId, ?int $pageNo = 1, ?int $pageSize = 20): array
     {
         return $this->client->post('product.getItemInfo', [
             'itemId' => $itemId,
@@ -165,7 +165,7 @@ class ProductClient
      */
     public function createItemAndSku(array $data): array
     {
-        return $this->client->post('product.createItemAndSku', $data);
+        return $this->client->postV2('product.createItemAndSku', $data);
     }
 
     /**
@@ -175,6 +175,6 @@ class ProductClient
      */
     public function updateItemAndSku(array $data): array
     {
-        return $this->client->post('product.updateItemAndSku', $data);
+        return $this->client->postV2('product.updateItemAndSku', $data);
     }
 }

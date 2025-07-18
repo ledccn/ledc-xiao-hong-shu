@@ -1,0 +1,111 @@
+{
+  "data": {
+    "orderType": 1,
+    "orderId": "P768291112062421411",
+    "cancelStatus": 0,
+    "receiverCityId": "",
+    "totalMerchantDiscount": 0,
+    "receiverCountryId": "",
+    "transferExtendInfo": {
+      "orderDeclaredAmount": 0
+    },
+    "createdTime": 1752739112000,
+    "shopId": "686f4fbb676f970015e5f08b",
+    "promiseLastDeliveryTime": 1752911924000,
+    "orderTagList": [],
+    "finishTime": 0,
+    "orderAfterSalesStatus": 1,
+    "totalPayAmount": 10,
+    "paidTime": 1752739124000,
+    "simpleDeliveryOrderList": [
+      {
+        "deliveryOrderIndex": 1,
+        "itemIdList": [
+          "6878ac2e02d7b000016adb40"
+        ],
+        "skuIdList": [
+          "6878ac2e02d7b000016adb40"
+        ],
+        "status": 4
+      }
+    ],
+    "presaleDeliveryStartTime": 0,
+    "planInfoName": "市内配送",
+    "skuList": [
+      {
+        "skuAfterSaleStatus": 1,
+        "totalPaidAmount": 10,
+        "skuSpec": "",
+        "totalRedDiscount": 0,
+        "isChannel": false,
+        "skuDetailList": [
+          {
+            "merchantDiscountPerSku": 0,
+            "skuName": "测试商品，不发货",
+            "quantity": 1,
+            "taxPerSku": 0,
+            "scSkuCode": "XHS-3H5GBR7J8YKG",
+            "paidAmountPerSku": 10,
+            "redDiscountPerSku": 0,
+            "pricePerSku": 10,
+            "depositAmountPerSku": 0,
+            "barcode": "XHS-3H5GBR7J8YKG",
+            "rawPricePerSku": 10,
+            "skuId": "6878ac2e02d7b000016adb40"
+          }
+        ],
+        "skuTag": 0,
+        "totalMerchantDiscount": 0,
+        "skuName": "测试商品，不发货",
+        "skuQuantity": 1,
+        "itemId": "6878ac2e02d7b000016adb3f",
+        "itemName": "测试商品，不发货",
+        "kolId": "",
+        "deliveryMode": 0,
+        "totalNetWeight": 0,
+        "totalTaxAmount": 0,
+        "skuId": "6878ac2e02d7b000016adb40",
+        "skuImage": "//qimg.xiaohongshu.com/arkgoods/1040g0o031k1h5lacjq005q1442c3jvuaj27p3ro?itemId=6878ac2e02d7b000016adb40&imageView2/1/w/320/h/320/q/90.png"
+      }
+    ],
+    "deliveryTime": 0,
+    "receiverCountryName": "",
+    "merchantActualReceiveAmount": 10,
+    "logistics": "red_auto",
+    "presaleDeliveryEndTime": 0,
+    "orderStatus": 4,
+    "shopName": "爱语飞飞的店",
+    "boundExtendInfo": {
+      "zoneCodes": [],
+      "productValue": 0,
+      "payAmount": 0,
+      "shippingFee": 0,
+      "discountAmount": 0,
+      "taxAmount": 0
+    },
+    "paymentType": 2,
+    "receiverDistrictId": "",
+    "totalDepositAmount": 0,
+    "totalNetWeightAmount": 0,
+    "outTradeNo": "4328702269202507174227275436",
+    "logisticsMode": 1,
+    "outPromotionAmount": 0,
+    "totalChangePriceAmount": 0,
+    "unpack": false,
+    "receiverProvinceName": "海南省",
+    "customerRemark": "开发测试下单，请勿发货",
+    "totalRedDiscount": 0,
+    "sellerRemarkFlag": 0,
+    "openAddressId": "ea24c95271067b8f7eedd3d9929c41c0",
+    "totalShippingFree": 0,
+    "updateTime": 1752739131122,
+    "userId": "643a6caa000000000801af84",
+    "receiverProvinceId": "",
+    "cancelTime": 0,
+    "receiverCityName": "海口市",
+    "receiverDistrictName": "龙华区",
+    "planInfoId": "686f7454dc941a001551f3a9"
+  },
+  "success": true,
+  "error_code": 0
+}

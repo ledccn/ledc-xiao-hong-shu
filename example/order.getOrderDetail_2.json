@@ -1,0 +1,147 @@
+{
+  "data": {
+    "planInfoName": "市内配送",
+    "orderType": 1,
+    "skuList": [
+      {
+        "skuAfterSaleStatus": 1,
+        "skuSpec": "15寸 桔红色",
+        "totalPaidAmount": 10,
+        "isChannel": false,
+        "totalRedDiscount": 0,
+        "skuDetailList": [
+          {
+            "skuName": "（测试商品、不发货） 15寸 桔红色",
+            "merchantDiscountPerSku": 0,
+            "quantity": 1,
+            "taxPerSku": 0,
+            "scSkuCode": "XHS-3GUEGCNFPR0G",
+            "paidAmountPerSku": 10,
+            "redDiscountPerSku": 0,
+            "depositAmountPerSku": 0,
+            "pricePerSku": 10,
+            "rawPricePerSku": 10,
+            "barcode": "XHS-3GUEGCNFPR0G",
+            "skuId": "687496d3417c3f00015b8be5"
+          }
+        ],
+        "skuTag": 0,
+        "totalMerchantDiscount": 0,
+        "skuName": "（测试商品、不发货） 15寸 桔红色",
+        "skuQuantity": 1,
+        "itemId": "687496d3417c3f00015b8be4",
+        "itemName": "（测试商品、不发货）",
+        "kolId": "",
+        "deliveryMode": 1,
+        "totalNetWeight": 0,
+        "totalTaxAmount": 0,
+        "skuImage": "//qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho?itemId=687496d3417c3f00015b8be5&imageView2/1/w/320/h/320/q/90.jpeg",
+        "skuId": "687496d3417c3f00015b8be5"
+      },
+      {
+        "skuAfterSaleStatus": 1,
+        "skuSpec": "18寸 宝蓝色",
+        "totalPaidAmount": 10,
+        "totalRedDiscount": 0,
+        "isChannel": false,
+        "skuDetailList": [
+          {
+            "merchantDiscountPerSku": 0,
+            "skuName": "（测试商品、不发货） 18寸 宝蓝色",
+            "quantity": 1,
+            "taxPerSku": 0,
+            "paidAmountPerSku": 10,
+            "scSkuCode": "XHS-3GUEGCNS78QO",
+            "redDiscountPerSku": 0,
+            "pricePerSku": 10,
+            "depositAmountPerSku": 0,
+            "rawPricePerSku": 10,
+            "barcode": "XHS-3GUEGCNS78QO",
+            "skuId": "687496d3417c3f00015b8bee"
+          }
+        ],
+        "skuTag": 0,
+        "totalMerchantDiscount": 0,
+        "skuName": "（测试商品、不发货） 18寸 宝蓝色",
+        "skuQuantity": 1,
+        "itemId": "687496d3417c3f00015b8be4",
+        "itemName": "（测试商品、不发货）",
+        "kolId": "",
+        "deliveryMode": 1,
+        "totalNetWeight": 0,
+        "totalTaxAmount": 0,
+        "skuId": "687496d3417c3f00015b8bee",
+        "skuImage": "//qimg.xiaohongshu.com/arkgoods/1040g0o031jtheq7r2a005q1442c3jvua23ehsho?itemId=687496d3417c3f00015b8bee&imageView2/1/w/320/h/320/q/90.jpeg"
+      }
+    ],
+    "receiverCountryName": "",
+    "deliveryTime": 0,
+    "orderId": "P768269740371421731",
+    "cancelStatus": 0,
+    "merchantActualReceiveAmount": 20,
+    "receiverCityId": "",
+    "orderStatus": 4,
+    "shopName": "爱语飞飞的店",
+    "presaleDeliveryEndTime": 0,
+    "logistics": "red_auto",
+    "boundExtendInfo": {
+      "zoneCodes": [],
+      "productValue": 0,
+      "payAmount": 0,
+      "shippingFee": 0,
+      "discountAmount": 0,
+      "taxAmount": 0
+    },
+    "totalMerchantDiscount": 0,
+    "receiverCountryId": "",
+    "paymentType": 2,
+    "receiverDistrictId": "",
+    "transferExtendInfo": {
+      "orderDeclaredAmount": 0
+    },
+    "totalDepositAmount": 0,
+    "outTradeNo": "4348502285202507178855067463",
+    "totalNetWeightAmount": 0,
+    "logisticsMode": 1,
+    "outPromotionAmount": 0,
+    "createdTime": 1752717740000,
+    "shopId": "686f4fbb676f970015e5f08b",
+    "totalChangePriceAmount": 0,
+    "unpack": false,
+    "receiverProvinceName": "海南省",
+    "promiseLastDeliveryTime": 1752890554000,
+    "orderTagList": [],
+    "finishTime": 0,
+    "totalRedDiscount": 0,
+    "orderAfterSalesStatus": 1,
+    "sellerRemarkFlag": 0,
+    "openAddressId": "ea24c95271067b8f7eedd3d9929c41c0",
+    "totalShippingFree": 0,
+    "updateTime": 1752717760844,
+    "totalPayAmount": 20,
+    "paidTime": 1752717754000,
+    "userId": "643a6caa000000000801af84",
+    "receiverProvinceId": "",
+    "simpleDeliveryOrderList": [
+      {
+        "deliveryOrderIndex": 1,
+        "itemIdList": [
+          "687496d3417c3f00015b8be5",
+          "687496d3417c3f00015b8bee"
+        ],
+        "skuIdList": [
+          "687496d3417c3f00015b8be5",
+          "687496d3417c3f00015b8bee"
+        ],
+        "status": 4
+      }
+    ],
+    "cancelTime": 0,
+    "presaleDeliveryStartTime": 0,
+    "receiverCityName": "海口市",
+    "receiverDistrictName": "龙华区",
+    "planInfoId": "686f7454dc941a001551f3a9"
+  },
+  "success": true,
+  "error_code": 0
+}
