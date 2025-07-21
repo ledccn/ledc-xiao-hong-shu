@@ -21,6 +21,11 @@ class Merchant
      * @var Client
      */
     protected Client $client;
+    /**
+     * 缓存的客户端对象实例
+     * @var array
+     */
+    protected array $instances = [];
 
     /**
      * 构造函数
@@ -55,7 +60,7 @@ class Merchant
      */
     public function getAfterSaleClient(): AfterSaleClient
     {
-        return new AfterSaleClient($this->client);
+        return $this->instances['afterSale'] ?? $this->instances['afterSale'] = new AfterSaleClient($this->client);
     }
 
     /**
@@ -64,7 +69,7 @@ class Merchant
      */
     public function getCommonClient(): CommonClient
     {
-        return new CommonClient($this->client);
+        return $this->instances['common'] ?? $this->instances['common'] = new CommonClient($this->client);
     }
 
     /**
@@ -73,7 +78,7 @@ class Merchant
      */
     public function getInventoryClient(): InventoryClient
     {
-        return new InventoryClient($this->client);
+        return $this->instances['inventory'] ?? $this->instances['inventory'] = new InventoryClient($this->client);
     }
 
     /**
@@ -82,7 +87,7 @@ class Merchant
      */
     public function getMaterialClient(): MaterialClient
     {
-        return new MaterialClient($this->client);
+        return $this->instances['material'] ?? $this->instances['material'] = new MaterialClient($this->client);
     }
 
     /**
@@ -91,7 +96,7 @@ class Merchant
      */
     public function getOauthClient(): OauthClient
     {
-        return new OauthClient($this->client);
+        return $this->instances['oauth'] ?? $this->instances['oauth'] = new OauthClient($this->client);
     }
 
     /**
@@ -100,7 +105,7 @@ class Merchant
      */
     public function getOrderClient(): OrderClient
     {
-        return new OrderClient($this->client);
+        return $this->instances['order'] ?? $this->instances['order'] = new OrderClient($this->client);
     }
 
     /**
@@ -109,6 +114,6 @@ class Merchant
      */
     public function getProductClient(): ProductClient
     {
-        return new ProductClient($this->client);
+        return $this->instances['product'] ?? $this->instances['product'] = new ProductClient($this->client);
     }
 }
