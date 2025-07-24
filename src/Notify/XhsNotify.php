@@ -3,9 +3,11 @@
 namespace Ledc\XiaoHongShu\Notify;
 
 use InvalidArgumentException;
+use Ledc\XiaoHongShu\Enums\NotifyMsgTagEnums;
+use Ledc\XiaoHongShu\Enums\OrderStatusEnums;
 
 /**
- * 小红书推送回调通知报文
+ * 小红书消息订阅推送回调通知报文
  */
 class XhsNotify
 {
@@ -67,5 +69,26 @@ class XhsNotify
     public function getData(): array
     {
         return $this->data;
+    }
+
+    /**
+     * 判断是否订单状态变更
+     * @return bool
+     */
+    public function isMsgFulfillmentStatusChange(): bool
+    {
+        return $this->msgTag === NotifyMsgTagEnums::msg_fulfillment_status_change;
+    }
+
+    /**
+     * 判断是否已支付
+     * @return bool
+     */
+    public function isPaid(): bool
+    {
+        $orderId = $this->data['orderId'] ?? '';
+        $orderStatus = $this->data['orderStatus'] ?? '';
+        $packageStatus = $this->data['packageStatus'] ?? '';
+        return $orderId && $orderStatus === OrderStatusEnums::PROCESSING_PAYMENT && $packageStatus === OrderStatusEnums::PROCESSING_PAYMENT;
     }
 }

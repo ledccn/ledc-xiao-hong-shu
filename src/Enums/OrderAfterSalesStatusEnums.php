@@ -52,4 +52,17 @@ class OrderAfterSalesStatusEnums extends EnumsInterface
             self::CANCELED => '售后取消'
         ];
     }
+
+    /**
+     * 售后状态存在售后处理中、平台介入中
+     * @param int $value
+     * @return bool
+     */
+    public static function existsAfterSales(int $value): bool
+    {
+        return in_array($value, [
+            self::PROCESSING,
+            self::PLATFORM_INTERVENTION,
+        ], true);
+    }
 }

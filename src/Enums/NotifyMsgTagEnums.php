@@ -30,6 +30,7 @@ class NotifyMsgTagEnums
     /**
      * 【订单】卖家修改备注
      * - 1.卖家修改交易备注时触发
+     * - 示例：{"sellerRemarkContent":"我是商家备注","orderId":"P768716729656421231","packageId":"P768716729656421231","updateTime":1753175101977,"sellerRemarkOperator":"admin"}
      */
     public const msg_fulfillment_seller_remark_change = 'msg_fulfillment_seller_remark_change';
     /**
@@ -48,7 +49,7 @@ class NotifyMsgTagEnums
      * - 2.订单已发货，申请仅退款
      * - 3.订单已发货，申请退款退货
      * - 4.订单已发货，申请换货
-     * 示例：{"refundFee":0.1,"orderId":"P768291112062421411","packageId":"P768291112062421411","returnsId":"R6242141112658161","updateTime":1752812658321,"returnType":5,"requestFrom":1}
+     * - 示例：{"refundFee":0.1,"orderId":"P768291112062421411","packageId":"P768291112062421411","returnsId":"R6242141112658161","updateTime":1752812658321,"returnType":5,"requestFrom":1}
      */
     public const msg_after_sale_create = 'msg_after_sale_create';
     /**
@@ -76,8 +77,8 @@ class NotifyMsgTagEnums
     public const msg_sku_create = 'msg_sku_create';
     /**
      * 【商品】商品上下架（新）
-     * - 下架 {"buyable":false,"itemId":"6878ac2e02d7b000016adb40","updateTime":1752822931000,"skuId":"6878ac2e02d7b000016adb40"}
-     * - 上架 {"buyable":true,"itemId":"6878ac2e02d7b000016adb40","updateTime":1752822943000,"skuId":"6878ac2e02d7b000016adb40"}
+     * - 下架示例 {"buyable":false,"itemId":"6878ac2e02d7b000016adb40","updateTime":1752822931000,"skuId":"6878ac2e02d7b000016adb40"}
+     * - 上架示例 {"buyable":true,"itemId":"6878ac2e02d7b000016adb40","updateTime":1752822943000,"skuId":"6878ac2e02d7b000016adb40"}
      */
     public const msg_sku_buyable = 'msg_sku_buyable';
 }

@@ -73,4 +73,18 @@ class OrderStatusEnums extends EnumsInterface
             self::EXCHANGE_REQUESTED => '换货申请中',
         ];
     }
+
+    /**
+     * 判断是否为可发货状态
+     * @param int $value
+     * @return bool
+     */
+    public static function canDelivery(int $value): bool
+    {
+        return in_array($value, [
+            self::PROCESSING_PAYMENT,
+            self::WAITING_FOR_SHIPMENT,
+            self::PARTIALLY_SHIPPED,
+        ], true);
+    }
 }
