@@ -29,6 +29,7 @@ class Config implements JsonSerializable
         'version',
         'storeId',
         'timeout',
+        'debug',
         'enabled',
     ];
     /**

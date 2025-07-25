@@ -1,0 +1,83 @@
+{
+  "error_code": 0,
+  "data": {
+    "total": 1,
+    "skuInfos": [
+      {
+        "itemId": "6881ec19b2925800159d1ac8",
+        "ipq": 1,
+        "originalPrice": 100000,
+        "price": 100000,
+        "stock": 1,
+        "logisticsPlanId": "686f7454dc941a001551f3a9",
+        "whcode": "CPartner",
+        "priceType": 0,
+        "erpCode": "",
+        "variants": [],
+        "deliveryTime": {
+          "time": "48",
+          "type": "RELATIVE_TIME_NEW"
+        },
+        "specImage": "http://qimg.xiaohongshu.com/arkgoods/1040g0o031k1h5lacjq005q1442c3jvuaj27p3ro",
+        "barcode": "XHS-3HUHKU81YBK0",
+        "originSkuId": null,
+        "boutiqueMode": null,
+        "rowNumber": 1,
+        "deliveryFlag": null,
+        "id": "6881ec19b2925800159d1ac9",
+        "scSkucode": "6881ec19b2925800159d1aca",
+        "logisticsName": null,
+        "buyable": false,
+        "unionItemDetails": [],
+        "createTime": 1753345049000,
+        "updateTime": 1753345049000,
+        "name": "拉布布labubu花园花篮",
+        "isGift": false
+      }
+    ],
+    "itemInfo": {
+      "name": "拉布布labubu花园花篮",
+      "ename": null,
+      "brandId": 0,
+      "categoryId": "65f996db3e946300016b265c",
+      "attributes": [],
+      "shippingTemplateId": "68748105fad0a100151932d5",
+      "shippingGrossWeight": 0,
+      "variantIds": [],
+      "images": [
+        "http://qimg.xiaohongshu.com/arkgoods/1040g0o031k1h5lacjq005q1442c3jvuaj27p3ro"
+      ],
+      "standardImages": [],
+      "longImages": [],
+      "videoUrl": null,
+      "articleNo": null,
+      "imageDescriptions": [
+        "http://qimg.xiaohongshu.com/material_space/3bf41e41-4dc0-445a-bca0-f4a5e7a05ed2"
+      ],
+      "transparentImage": null,
+      "description": "拉布布labubu",
+      "faq": [],
+      "isChannel": false,
+      "deliveryMode": 0,
+      "freeReturn": 1,
+      "enableMultiWarehouse": false,
+      "sizeTableImage": null,
+      "recommendSizeTableImage": null,
+      "modelTryOnSizeTableImage": null,
+      "enableMainSpecImage": false,
+      "mainSpecId": null,
+      "itemShortTitle": null,
+      "enableStepPresale": false,
+      "id": "6881ec19b2925800159d1ac8",
+      "unionType": 0,
+      "imageBindItem": true,
+      "imagesDescBindItem": true,
+      "createTime": 1753345049000,
+      "updateTime": 1753345179000,
+      "taskId": null
+    },
+    "pageNO": 1,
+    "pageSize": 50
+  },
+  "success": true
+}

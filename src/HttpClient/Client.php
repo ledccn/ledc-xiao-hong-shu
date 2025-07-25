@@ -93,7 +93,8 @@ class Client
             $params['accessToken'] = $this->getConfig()->getAccessToken();
         }
 
-        $payload = json_encode($params);
+        // 不可携带 JSON_UNESCAPED_SLASHES（文件上传时编码后有很多斜杠）
+        $payload = json_encode($params, JSON_UNESCAPED_UNICODE);
         $this->writeLog($method . '_request', $payload);
 
         $ch = curl_init();
@@ -137,7 +138,7 @@ class Client
      */
     private function writeLog(string $method, $response): void
     {
-        if (is_string($response)) {
+        if (is_string($response) && $this->getConfig()->isDebug()) {
             $dir = runtime_path('xiao-hong-shu');
             is_dir($dir) or mkdir($dir, 0755, true);
             file_put_contents($dir . $method . '.json', $response);

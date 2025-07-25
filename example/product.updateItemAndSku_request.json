@@ -1,0 +1,45 @@
+{
+  "itemId": "6881ec19b2925800159d1ac8",
+  "name": "拉布布labubu花园花篮",
+  "brandId": "0",
+  "categoryId": "65f996db3e946300016b265c",
+  "attributes": [],
+  "shippingTemplateId": "68748105fad0a100151932d5",
+  "shippingGrossWeight": 0,
+  "variantIds": [],
+  "enableStepPresale": false,
+  "images": [
+    {
+      "link": "https://qimg.xiaohongshu.com/arkgoods/1040g0o031k1h5lacjq005q1442c3jvuaj27p3ro"
+    }
+  ],
+  "imageDescriptions": [
+    {
+      "link": "https://qimg.xiaohongshu.com/material_space/3bf41e41-4dc0-445a-bca0-f4a5e7a05ed2"
+    }
+  ],
+  "description": "拉布布labubu花园",
+  "deliveryMode": 0,
+  "freeReturn": 2,
+  "createSkuList": [],
+  "updateSkuList": [
+    {
+      "ipq": 1,
+      "skuId": "6881ec19b2925800159d1ac9",
+      "price": 100000,
+      "stock": 2,
+      "logisticsPlanId": "686f7454dc941a001551f3a9",
+      "variants": [],
+      "deliveryTime": {
+        "type": 4,
+        "time": "48"
+      },
+      "erpCode": "",
+      "barcode": "XHS-3HUHKU81YBK0",
+      "specImage": "http://qimg.xiaohongshu.com/arkgoods/1040g0o031k1h5lacjq005q1442c3jvuaj27p3ro",
+      "deliveryFlag": null,
+      "originalPrice": 100000
+    }
+  ],
+  "deleteSkuIdList": []
+}
