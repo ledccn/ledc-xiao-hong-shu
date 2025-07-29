@@ -29,8 +29,9 @@ class Config implements JsonSerializable
         'version',
         'storeId',
         'timeout',
-        'debug',
         'enabled',
+        'orderReceiverChangeReprint',
+        'debug',
     ];
     /**
      * 小红书开放平台AppKey
@@ -63,15 +64,20 @@ class Config implements JsonSerializable
      */
     protected int $timeout = 10;
     /**
-     * 是否调试模式
-     * @var bool true:测试环境，false:生产环境
-     */
-    protected bool $debug = false;
-    /**
      * 是否启用
      * @var bool
      */
     protected bool $enabled = false;
+    /**
+     * 买家收货信息变更时是否重打小票
+     * @var bool
+     */
+    protected bool $orderReceiverChangeReprint = false;
+    /**
+     * 是否调试模式
+     * @var bool true:测试环境，false:生产环境
+     */
+    protected bool $debug = false;
 
     /**
      * 构造函数
@@ -155,6 +161,24 @@ class Config implements JsonSerializable
     }
 
     /**
+     * 是否启用
+     * @return bool
+     */
+    public function isEnabled(): bool
+    {
+        return $this->enabled;
+    }
+
+    /**
+     * 判断买家收货信息变更时是否重打小票
+     * @return bool
+     */
+    public function isOrderReceiverChangeReprint(): bool
+    {
+        return $this->orderReceiverChangeReprint;
+    }
+
+    /**
      * 设置调试模式
      * @param bool $debug
      * @return Config
@@ -172,15 +196,6 @@ class Config implements JsonSerializable
     public function isDebug(): bool
     {
         return $this->debug;
-    }
-
-    /**
-     * 是否启用
-     * @return bool
-     */
-    public function isEnabled(): bool
-    {
-        return $this->enabled;
     }
 
     /**

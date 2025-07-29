@@ -81,6 +81,24 @@ class XhsNotify
     }
 
     /**
+     * 判断是否买家收货信息变更
+     * @return bool
+     */
+    public function isMsgFulfillmentReceiverChange(): bool
+    {
+        return $this->msgTag === NotifyMsgTagEnums::msg_fulfillment_receiver_change;
+    }
+
+    /**
+     * 判断是否发起售后申请
+     * @return bool
+     */
+    public function isMsgAfterSaleCreate(): bool
+    {
+        return $this->msgTag === NotifyMsgTagEnums::msg_after_sale_create;
+    }
+
+    /**
      * 判断是否已支付
      * @return bool
      */
