@@ -2,7 +2,7 @@
 
 namespace Ledc\XiaoHongShu\Parameters\AfterSale;
 
-use Ledc\XiaoHongShu\Parameters\Parameters;
+use Ledc\SupportSdk\Parameters;
 
 /**
  * 售后列表接口参数

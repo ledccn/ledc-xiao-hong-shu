@@ -2,8 +2,8 @@
 
 namespace Ledc\XiaoHongShu\HttpClient;
 
+use Ledc\SupportSdk\HttpResponse;
 use Ledc\XiaoHongShu\Config;
-use Ledc\XiaoHongShu\HttpResponse;
 use RuntimeException;
 
 /**

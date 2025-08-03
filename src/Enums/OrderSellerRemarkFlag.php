@@ -2,6 +2,8 @@
 
 namespace Ledc\XiaoHongShu\Enums;
 
+use Ledc\SupportSdk\EnumsInterface;
+
 /**
  * 小红书订单卖家备注标记枚举
  */

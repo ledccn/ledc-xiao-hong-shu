@@ -2,7 +2,7 @@
 
 namespace Ledc\XiaoHongShu\Parameters\Common;
 
-use Ledc\XiaoHongShu\Parameters\Parameters;
+use Ledc\SupportSdk\Parameters;
 
 /**
  * 批量获取发货时间规则的接口参数

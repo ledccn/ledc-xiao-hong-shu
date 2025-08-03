@@ -2,6 +2,8 @@
 
 namespace Ledc\XiaoHongShu\Parameters;
 
+use Ledc\SupportSdk\Parameters;
+
 /**
  * 授权成功后的参数
  */

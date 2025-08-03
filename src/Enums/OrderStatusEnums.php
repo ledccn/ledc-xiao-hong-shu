@@ -2,6 +2,8 @@
 
 namespace Ledc\XiaoHongShu\Enums;
 
+use Ledc\SupportSdk\EnumsInterface;
+
 /**
  * 小红书订单状态枚举
  * @date 2025年7月17日

@@ -2,7 +2,7 @@
 
 namespace Ledc\XiaoHongShu\Parameters\Order;
 
-use Ledc\XiaoHongShu\Parameters\Parameters;
+use Ledc\SupportSdk\Parameters;
 
 /**
  * 订单发货的请求参数

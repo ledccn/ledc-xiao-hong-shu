@@ -2,9 +2,9 @@
 
 namespace Ledc\XiaoHongShu\Parameters\Order;
 
+use Ledc\SupportSdk\Parameters;
 use Ledc\XiaoHongShu\Enums\OrderStatusEnums;
 use Ledc\XiaoHongShu\Enums\OrderTypeEnums;
-use Ledc\XiaoHongShu\Parameters\Parameters;
 
 /**
  * 获取订单列表的接口参数

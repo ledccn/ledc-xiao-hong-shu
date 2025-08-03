@@ -2,8 +2,11 @@
 
 namespace Ledc\XiaoHongShu\Parameters\Order;
 
-use Ledc\XiaoHongShu\Parameters\Parameters;
+use Ledc\SupportSdk\Parameters;
 
+/**
+ * 修改订单物流信息
+ */
 class ModifyOrderExpressInfo extends Parameters
 {
     /**
